@@ -41,7 +41,7 @@ Whether you're a fellow developer, a data enthusiast, or simply curious about wh
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="height: 3rem"/> </a> 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="linux" style="height: 3rem"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/pandas_logo_icon_248897.png" alt="pandas" style="height: 3rem"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" style="height: 3rem"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="pytorch" style="height: 3rem"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" style="height: 3rem"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="height: 3rem"/> </a> 
