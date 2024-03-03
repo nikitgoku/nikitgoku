@@ -35,7 +35,8 @@ Whether you're a fellow developer, a data enthusiast, or simply curious about wh
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="height: 3rem"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="height: 3rem"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" alt="spark"  style="height: 3rem"/> </a>
 <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="height: 3rem"/> </a> 
